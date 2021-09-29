@@ -1,5 +1,5 @@
 # **Time Rules**
-* Timing starts on selecting "Start" on a new save file. *(The frame the "YES" button switches to a dim yellow)*
+* Timing starts on selecting "Start" on a new save file. *(The frame when the main menu disappears)*
 * Timing ends on the final blow to Jevil, or when the pacify spell connects with him.
 
 # **Save Files**

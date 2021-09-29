@@ -1,5 +1,5 @@
 # **Time Rules**
-* Timing starts on selecting "Start" on a new Chapter 1 save file. *(The frame the "YES" button switches to a dim yellow)*
+* Timing starts on selecting "Start" on a new Chapter 1 save file. *(The frame when the main menu disappears)*
 * Timing ends on Toriel's final textbox in Chapter 2. *(The frame the text in the textbox disappears)*
 
 # **Save Files**
