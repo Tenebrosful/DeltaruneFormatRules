@@ -1,5 +1,5 @@
 # **Time Rules**
-* Timing starts on selecting "YES" when naming a new save file. *(The frame the "YES" button switches to a dim yellow)*
+* Timing starts on selecting "Start" on a new save file. *(The frame the "YES" button switches to a dim yellow)*
 * Timing ends after the final line of text closes before Kris enters the bed. *(The frame the text in the textbox disappears)*
 
 # **Save Files**
